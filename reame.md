@@ -6,11 +6,14 @@ https://github.com/imondal007/starter.git
 Once you have cloned the repo, navigate in to the directory via terminal and run.
 
 ```javascript
-npm install
+npm i
 ```
 Then run
 
 ```javascript
 gulp
 ```
-*Make sure you have npm & gulp installed in your machine globally
+
+You are ready to go :+1:
+
+Make sure you have npm & gulp installed in your machine globally.
