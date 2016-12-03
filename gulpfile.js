@@ -4,7 +4,7 @@ var gulp        = require('gulp'),
 	rename      = require('gulp-rename'),
 	sass        = require('gulp-sass'),
 	plumber     = require('gulp-plumber'),
-	cleanCSS    = require('gulp-clean-css');
+	cleanCSS    = require('gulp-clean-css'),
 	imagemin    = require('gulp-imagemin');
 
 
